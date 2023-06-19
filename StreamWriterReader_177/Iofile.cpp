@@ -21,5 +21,7 @@ int main() {
 		//loop akan berhenti jika anda memasukkan karakter q
 		if (baris == "q")break;
 
+
+
 	}
 }
