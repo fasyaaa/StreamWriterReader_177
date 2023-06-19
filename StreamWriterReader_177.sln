@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamWriterReader_177", "StreamWriterReader_177\StreamWriterReader_177.vcxproj", "{F481E41B-26A1-48D4-A21B-89C328ADC30D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "IoFileWithPath\IoFileWithPath.vcxproj", "{281EF5BA-FB49-4E94-AF42-15ECDA539856}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -27,6 +29,18 @@ Global
 		{F481E41B-26A1-48D4-A21B-89C328ADC30D}.Release|x64.Build.0 = Release|x64
 		{F481E41B-26A1-48D4-A21B-89C328ADC30D}.Release|x86.ActiveCfg = Release|Win32
 		{F481E41B-26A1-48D4-A21B-89C328ADC30D}.Release|x86.Build.0 = Release|Win32
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|arm64.ActiveCfg = Debug|arm64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|arm64.Build.0 = Debug|arm64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|x64.ActiveCfg = Debug|x64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|x64.Build.0 = Debug|x64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|x86.ActiveCfg = Debug|Win32
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Debug|x86.Build.0 = Debug|Win32
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|arm64.ActiveCfg = Release|arm64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|arm64.Build.0 = Release|arm64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|x64.ActiveCfg = Release|x64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|x64.Build.0 = Release|x64
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|x86.ActiveCfg = Release|Win32
+		{281EF5BA-FB49-4E94-AF42-15ECDA539856}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
